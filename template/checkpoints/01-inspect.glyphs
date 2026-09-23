@@ -1,0 +1,105 @@
+{
+.appVersion = "4107";
+.formatVersion = 3;
+date = "2026-09-23 12:00:00 +0000";
+familyName = "Workshop Demo";
+fontMaster = (
+{
+id = "86C0D67A-944C-4DBD-9EB2-A0EF747F8721";
+name = Regular;
+metricValues = (
+{pos = 800;},
+{pos = 700;},
+{pos = 500;},
+{pos = 0;},
+{pos = -200;}
+);
+}
+);
+glyphs = (
+{
+glyphname = H;
+unicode = 72;
+layers = (
+{
+layerId = "86C0D67A-944C-4DBD-9EB2-A0EF747F8721";
+width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,0,l),
+(80,700,l),
+(180,700,l),
+(180,400,l),
+(420,400,l),
+(420,700,l),
+(520,700,l),
+(520,0,l),
+(420,0,l),
+(420,300,l),
+(180,300,l),
+(180,0,l)
+);
+}
+);
+}
+);
+},
+{
+glyphname = O;
+unicode = 79;
+layers = (
+{
+layerId = "86C0D67A-944C-4DBD-9EB2-A0EF747F8721";
+width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,0,l),
+(80,700,l),
+(520,700,l),
+(520,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(180,100,l),
+(420,100,l),
+(420,600,l),
+(180,600,l)
+);
+}
+);
+}
+);
+},
+{
+glyphname = space;
+unicode = 32;
+layers = (
+{
+layerId = "86C0D67A-944C-4DBD-9EB2-A0EF747F8721";
+width = 300;
+}
+);
+}
+);
+instances = (
+{
+name = Regular;
+}
+);
+metrics = (
+{type = ascender;},
+{type = "cap height";},
+{type = "x-height";},
+{type = baseline;},
+{type = descender;}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
