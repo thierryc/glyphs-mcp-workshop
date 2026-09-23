@@ -16,9 +16,11 @@
   the scripting output console. The script reads layers, not selected nodes.
 - **Repository 404:** while private, sign in with an invited GitHub account.
   Anonymous downloads and the app's public catalog will work only after publication.
-- **Template not listed:** extract the ZIP first, select the actual template folder
-  through Add Local Template, then choose Use Template. The app copies rather than
-  executes it; opening the repository webpage does not install a project.
+- **Template not listed:** choose Refresh in the Templates list. If the workshop
+  is still missing, ask a presenter; its catalog entry must be available before
+  the session. During private preparation, presenters register the checkout's
+  `template/` folder with Add Local Template. Participants do not need a ZIP.
+  The app copies files rather than executing them.
 
 Ask a presenter before changing versions mid-exercise. Never include API keys,
 private font files or account details in a bug report.

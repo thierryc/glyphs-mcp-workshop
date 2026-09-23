@@ -35,10 +35,15 @@ do not expose a local server to the internet as a workaround.
 
 ## 3. Create your own workshop project
 
-Extract the workshop ZIP. In Glyphs MCP choose **Project → Add Local Template…**,
-select the extracted template folder, then **Use Template**. Name the new project
-and choose a local parent folder. Review the file preview and create it.
-For a full repository checkout, select its `template/` subfolder.
+In Glyphs MCP, open the project start screen and find the workshop in
+**Templates**. Choose **Refresh** if needed, then **Use Template** on the workshop
+card. Name the new project and choose a local parent folder. Review the file
+preview and choose **Create Project**. No workshop ZIP download is required.
+
+Preparation note: the workshop listing will be added before the session; it is
+not yet available in the public catalog. While the repository is private,
+presenters can use **Add Local Template…** to register the checkout's `template/`
+folder. This is not a required participant step. The ZIP is only a manual fallback.
 
 Open the new project's `sources/Workshop Demo.glyphs`, not the master template.
 Save it if the app asks. Confirm one master (Regular), H and O, and a width of

@@ -8,15 +8,23 @@ a useful reporting script. The agenda and teaching client remain provisional.
 
 ## Install as a Glyphs MCP project
 
-1. Download and extract this repository, or clone it with an authenticated account
-   while it is private.
-2. Open Glyphs MCP → **Project** → **Add Local Template…** (also available as
-   **Add Template…** in the My Project menu).
-3. Choose this repository's **template/** folder, not the repository root.
-4. Choose **Use Template**, name your project, choose a local parent folder,
+1. Open Glyphs MCP's project start screen and find the workshop in **Templates**.
+2. Choose **Refresh** if the list needs updating.
+3. Choose **Use Template**, name your project, choose a local parent folder,
    review its contents and choose **Create Project**.
-5. Open your new project's `sources/Workshop Demo.glyphs` in Glyphs 4.
-6. Start with `documentation/setup.md`, then `documentation/exercises.md`.
+4. Open your new project's `sources/Workshop Demo.glyphs` in Glyphs 4.
+5. Start with `documentation/setup.md`, then `documentation/exercises.md`.
+
+**No workshop ZIP download is required.** The workshop will be added to the app's
+template list before the session. The catalog entry is not published yet.
+
+### Presenter setup while private
+
+Use an authenticated local checkout. On the project start screen, choose
+**Add Local Template…** and select this repository's **template/** folder, not
+the repository root. It then appears in Templates for **Use Template**.
+This registration is for preparation; participants will use the listed template.
+The ZIP remains an optional manual fallback, not the normal setup path.
 
 The app copies files; it does not execute scripts, clone Git history or configure
 an AI client from this template. Project instructions are guidance, not a skill
@@ -26,7 +34,7 @@ installer. Install the matching Glyphs MCP skills through the app separately.
 
 - [Glyphs MCP Beta 6 DMG](https://github.com/thierryc/Glyphs-mcp/releases/download/v2.0.0-beta.6/Glyphs-MCP-2.0.0-beta.6.dmg)
 - [Release and checksums](https://github.com/thierryc/Glyphs-mcp/releases/tag/v2.0.0-beta.6)
-- [Repository ZIP](https://github.com/thierryc/glyphs-mcp-workshop/archive/refs/heads/main.zip)
+- [Optional repository ZIP](https://github.com/thierryc/glyphs-mcp-workshop/archive/refs/heads/main.zip)
 
 The repository is private during preparation. GitHub links require collaborator
 access until the owner explicitly makes it public. The remote app catalog cannot

@@ -10,6 +10,11 @@ task details. This is not a mockup and does not certify the final workshop build
 build 4107 on 2026-09-23. Both widths are 600; sidebearings are 80/80. This is a
 baseline capture, not a screenshot of an AI-applied change.
 
+`project-templates.png`: user-provided project start screen captured during
+preparation, supplied on 2026-09-23; app build not shown. Shows Add Local Template
+and a local card named `template`. It illustrates where to choose Use Template,
+not a claim that the workshop is already published in the catalog.
+
 Other screenshots, when added, must state the build and whether they show actual
 results. Do not put private project names, file paths, tokens or account data in
 published captures. Final-build screenshots and fallback recordings are rehearsal
